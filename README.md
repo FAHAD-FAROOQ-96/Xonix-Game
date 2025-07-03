@@ -13,14 +13,14 @@ You control a block that moves inside a rectangular field. When you leave the ed
 ## How to Build a Game on Linux:
 
 Download the code, open terminal in the same folder, and execute the following commands:
-· sudo apt update
-· sudo apt install cmake
-· sudo apt install build-essential
-· sudo apt install libsfml-dev
-· mkdir build
-· cd build
-· cmake ..
-· make (use “sudo apt install make” if not already installed on your system)
+- sudo apt update
+- sudo apt install cmake
+- sudo apt install build-essential
+- sudo apt install libsfml-dev
+- mkdir build
+- cd build
+- cmake ..
+- make (use “sudo apt install make” if not already installed on your system)
 
 Now open build folder and there is an executable file with name xonix. After First
 compilation only make command need to compile code.
