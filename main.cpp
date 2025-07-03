@@ -1,9 +1,6 @@
 /*
-  FINAL PROJECT
-  
-SUBMITTED BY:
-     FAHAD FAROOQ
-      
+    XONIX GAME
+Created By: FAHAD FAROOQ     
 */
 
 #include <SFML/Graphics.hpp>
